@@ -1,0 +1,4 @@
+.contact-info p,
+.skills .title {
+  display: inline-block;
+}
