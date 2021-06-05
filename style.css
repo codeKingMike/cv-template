@@ -1,4 +1,12 @@
+*,
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 .contact-info p,
-.skills .title {
+.skills .title,
+h3.title {
   display: inline-block;
 }
