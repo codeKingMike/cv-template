@@ -7,6 +7,7 @@ body {
 
 .contact-info p,
 .skills .title,
-h3.title {
+h3.title,
+p.title {
   display: inline-block;
 }
