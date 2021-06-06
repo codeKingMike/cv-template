@@ -16,6 +16,11 @@ p.title {
   display: inline-block;
 }
 
+#cv-template {
+  width: 70%;
+  margin: 0 auto;
+}
+
 /* BOTTOM RIGHT SIDE*/
 
 .bottom-right-side {
