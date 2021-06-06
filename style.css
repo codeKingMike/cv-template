@@ -5,9 +5,19 @@ body {
   padding: 0;
 }
 
+body {
+  background-color: #f1f1f1;
+}
+
 .contact-info p,
 .skills .title,
 h3.title,
 p.title {
   display: inline-block;
+}
+
+/* BOTTOM RIGHT SIDE*/
+
+.bottom-right-side {
+  margin-top: 1.5rem;
 }
