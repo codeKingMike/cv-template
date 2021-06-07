@@ -109,3 +109,24 @@ p.title {
   justify-content: center;
   text-align: center;
 }
+
+/* MEDIA QUERY */
+@media screen and (max-width: 1500px) {
+  #cv-template {
+    width: 95%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 1450px) {
+  #cv-template {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .top-right-side {
+    margin-top: 1.5rem;
+  }
+}
