@@ -13,10 +13,39 @@ body {
   color: #019688;
 }
 
+.grey-text {
+  color: #757575;
+}
+
+/* LEFT SIDE OF CARD */
+
 .jane-name {
   margin-top: 220px;
   font-size: 2rem;
   font-weight: 400;
+}
+
+.skill-title {
+  font-size: 1.2rem;
+  font-weight: 400;
+  padding-bottom: 0.5rem;
+  color: #757575;
+}
+
+.language-title {
+  font-size: 1.2rem;
+  font-weight: 400;
+  padding-bottom: 0.5rem;
+  color: #757575;
+}
+
+.progress {
+  border-radius: 7px;
+}
+
+.progress-bar {
+  background-color: #019688 !important;
+  border-radius: 7px;
 }
 
 .contact-info p,
