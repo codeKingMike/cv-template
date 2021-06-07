@@ -19,10 +19,15 @@ body {
 
 /* LEFT SIDE OF CARD */
 
+.card-img-top {
+  position: relative;
+}
+
 .jane-name {
   margin-top: 220px;
   font-size: 2rem;
   font-weight: 400;
+  position: absolute;
 }
 
 .skill-title {
@@ -85,4 +90,16 @@ p.title {
 
 .bottom-right-side {
   margin-top: 1.5rem;
+}
+
+/* FOOTER */
+
+#footer {
+  height: 13vh;
+  background-color: #019688;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
