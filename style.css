@@ -46,6 +46,8 @@ body {
 .progress-bar {
   background-color: #019688 !important;
   border-radius: 7px;
+  /* MIGHT NEED THIS */
+  padding: 0.5rem 0;
 }
 
 .contact-info p,
