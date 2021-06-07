@@ -9,6 +9,10 @@ body {
   background-color: #f1f1f1;
 }
 
+.bg-green {
+  color: #019688;
+}
+
 .contact-info p,
 .skills .title,
 h3.title,
