@@ -13,6 +13,12 @@ body {
   color: #019688;
 }
 
+.jane-name {
+  margin-top: 220px;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
 .contact-info p,
 .skills .title,
 h3.title,
