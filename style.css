@@ -50,6 +50,25 @@ body {
   padding: 0.5rem 0;
 }
 
+/* RIGHT SIDE OF CARD */
+
+.card-titles {
+  font-size: 1.21rem;
+  font-weight: 400;
+}
+
+span.current {
+  color: #fff;
+  background-color: #019688;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+}
+
+.work p,
+.expierence p {
+  font-size: 1rem;
+}
+
 .contact-info p,
 .skills .title,
 h3.title,
