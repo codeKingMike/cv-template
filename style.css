@@ -19,15 +19,26 @@ body {
 
 /* LEFT SIDE OF CARD */
 
-.card-img-top {
+#cv-template {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.card-img-overlay {
   position: relative;
 }
 
 .jane-name {
-  margin-top: 220px;
   font-size: 2rem;
   font-weight: 400;
   position: absolute;
+  bottom: 58px;
+  left: 16px;
+  margin: 0;
+}
+
+.contact-info {
+  margin-top: -35px;
 }
 
 .skill-title {
@@ -79,11 +90,6 @@ span.current {
 h3.title,
 p.title {
   display: inline-block;
-}
-
-#cv-template {
-  width: 75%;
-  margin: 0 auto;
 }
 
 /* BOTTOM RIGHT SIDE*/
